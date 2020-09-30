@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ce8640b-fc0c-428d-bec0-b2d9c098d584" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/EurekaService/target/" />
+    <ignored path="$PROJECT_DIR$/EurekaClien/target/" />
+    <ignored path="$PROJECT_DIR$/EurekaClien2/target/" />
+    <ignored path="$PROJECT_DIR$/ClienAPI/target/" />
+    <ignored path="$PROJECT_DIR$/GatewayClient/target/" />
+    <ignored path="$PROJECT_DIR$/waterMachine/target/" />
+    <ignored path="$PROJECT_DIR$/WineCulture/target/" />
+    <ignored path="$PROJECT_DIR$/SendApi/target/" />
+    <ignored path="$PROJECT_DIR$/twoDatasourse/target/" />
+    <ignored path="$PROJECT_DIR$/uploadFile/target/" />
+    <ignored path="$PROJECT_DIR$/MyBatisPlusTest/target/" />
+    <ignored path="$PROJECT_DIR$/Tianmao/target/" />
+    <ignored path="$PROJECT_DIR$/oauth20SSO/target/" />
+    <ignored path="$PROJECT_DIR$/oauth20SsoResourse/target/" />
+    <ignored path="$PROJECT_DIR$/oauthserver/target/" />
+    <ignored path="$PROJECT_DIR$/sl4j/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="232547871">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="27" />
+          <entry key="java" value="8491" />
+          <entry key="properties" value="26" />
+          <entry key="xml" value="414" />
+          <entry key="yml" value="435" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8491" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Properties" value="26" />
+          <entry key="XML" value="414" />
+          <entry key="YAML" value="435" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="ftl" value="1" />
+          <entry key="java" value="212" />
+          <entry key="jpg" value="1" />
+          <entry key="png" value="14" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="6" />
+          <entry key="properties2" value="4" />
+          <entry key="xml" value="58" />
+          <entry key="yml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="FTL" value="1" />
+          <entry key="Image" value="15" />
+          <entry key="JAVA" value="212" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="59" />
+          <entry key="YAML" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/CustomTokenEnhancer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauthserver/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauthserver/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tianmao/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/TMapplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/controller/RequestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sl4j/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sl4j/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WechatOnload/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/bean/WeatherHandleImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>template_id</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/uploadFile/src/main/java/com/test/createCode/otherCode/SamplePoster.java" />
+        <option value="$PROJECT_DIR$/uploadFile/pom.xml" />
+        <option value="$PROJECT_DIR$/uploadFile/src/main/java/com/test/createCode/otherCode/PosterTest.java" />
+        <option value="$PROJECT_DIR$/uploadFile/src/main/java/com/test/createCode/otherCode/downimage.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/PlusApplication.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/Bean/Material.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/service/DemoService.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/mapper/DemoMapper.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/service/Impl/DemoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/test/java/com/test/test.java" />
+        <option value="$PROJECT_DIR$/Tianmao/src/main/java/com/test/TianMaoTest.java" />
+        <option value="$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/controller/DemoController.java" />
+        <option value="$PROJECT_DIR$/Tianmao/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Tianmao/src/main/java/com/test/domin/Member.java" />
+        <option value="$PROJECT_DIR$/Tianmao/src/main/java/com/test/DataStoreConfig.java" />
+        <option value="$PROJECT_DIR$/Tianmao/pom.xml" />
+        <option value="$PROJECT_DIR$/Tianmao/src/main/java/com/test/TianMaoTest/OAuthController.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/OAuthServerApplication.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/OAuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/resources/templates/login.ftl" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/oauth20SsoResourse/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth20SsoResourse/src/main/java/OAuthClientApplication.java" />
+        <option value="$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/OAuthClientApplication.java" />
+        <option value="$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/config/OAuthClientSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/config/OAuthClientWebConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AuthoritiesEnum.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AuthJWTTokenStore.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/ResJWTTokenStore.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AbstractSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/CustomTokenEnhancer.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/AbstractSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/OAuth2AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/ResServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauthserver/pom.xml" />
+        <option value="$PROJECT_DIR$/oauthserver/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tianmao/pom.xml" />
+        <option value="$PROJECT_DIR$/tianmao/src/main/java/com/test/TMapplication.java" />
+        <option value="$PROJECT_DIR$/tianmao/src/main/java/com/test/RequestController.java" />
+        <option value="$PROJECT_DIR$/tianmao/src/main/java/com/test/bean/WeatherHandleImpl.java" />
+        <option value="$PROJECT_DIR$/tianmao/src/main/java/com/test/controller/RequestController.java" />
+        <option value="$PROJECT_DIR$/sl4j/pom.xml" />
+        <option value="$PROJECT_DIR$/sl4j/src/main/resources/log4j.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-66" />
+    <option name="y" value="67" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weifuwuceshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weifuwuceshi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weifuwuceshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weifuwuceshi" type="462c0819:PsiDirectoryNode" />
+              <item name="WechatOnload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weifuwuceshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weifuwuceshi" type="462c0819:PsiDirectoryNode" />
+              <item name="WechatOnload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weifuwuceshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weifuwuceshi" type="462c0819:PsiDirectoryNode" />
+              <item name="WechatOnload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601438549199" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../resourse/m9cool-services" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sige.dao" />
+      <recent name="com.sige.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.sige" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\project\weifuwuceshi\oauth20SSO\src\main\resources" />
+      <recent name="D:\develop\project\weifuwuceshi\uploadFile\src\main\resources\image" />
+      <recent name="D:\develop\project\weifuwuceshi\uploadFile\src\main\java\com\test\createCode\otherCode" />
+      <recent name="D:\develop\project\weifuwuceshi\WineCulture\src\main\resources\dao" />
+      <recent name="D:\develop\project\weifuwuceshi\EurekaClien\src\main\java\com\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.Bean" />
+      <recent name="com.service" />
+      <recent name="com.sige.dao" />
+      <recent name="com.sige.controller" />
+      <recent name="com.sige.bean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\project\weifuwuceshi\WineCulture\src\main\resources\com\dao" />
+      <recent name="D:\develop\project\weifuwuceshi\WineCulture\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="CreateCodeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.createCode.controller.CreateCodeController" />
+      <module name="uploadFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.createCode.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PosterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.createCode.otherCode.PosterTest" />
+      <module name="uploadFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.createCode.otherCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="downimage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.createCode.otherCode.downimage" />
+      <module name="uploadFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.createCode.otherCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.test" />
+      <module name="MyBatisPlusTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="uploadFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.UploadTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UploadTestApplication" />
+      <item itemvalue="Application.CreateCodeController" />
+      <item itemvalue="Application.PosterTest" />
+      <item itemvalue="Application.downimage" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.PosterTest" />
+        <item itemvalue="Application.downimage" />
+        <item itemvalue="Application.CreateCodeController" />
+        <item itemvalue="Spring Boot.UploadTestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Gavin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ce8640b-fc0c-428d-bec0-b2d9c098d584" name="Default Changelist" comment="" />
+      <created>1597283769056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597283769056</updated>
+      <workItem from="1597283784488" duration="73000" />
+      <workItem from="1597286661840" duration="11572000" />
+      <workItem from="1597314879467" duration="651000" />
+      <workItem from="1597367939794" duration="18640000" />
+      <workItem from="1597628835670" duration="8740000" />
+      <workItem from="1597715683084" duration="6976000" />
+      <workItem from="1597738243887" duration="3519000" />
+      <workItem from="1598411711043" duration="96000" />
+      <workItem from="1598428701805" duration="4214000" />
+      <workItem from="1598492330264" duration="16190000" />
+      <workItem from="1598606506864" duration="1411000" />
+      <workItem from="1598837521146" duration="1760000" />
+      <workItem from="1599097776301" duration="702000" />
+      <workItem from="1599120070758" duration="9085000" />
+      <workItem from="1599529148561" duration="41676000" />
+      <workItem from="1600047081222" duration="6159000" />
+      <workItem from="1600133608730" duration="22878000" />
+      <workItem from="1600220796732" duration="8895000" />
+      <workItem from="1600322020771" duration="11313000" />
+      <workItem from="1600399131313" duration="4197000" />
+      <workItem from="1600653321466" duration="3326000" />
+      <workItem from="1600912460713" duration="7202000" />
+      <workItem from="1601170358755" duration="11655000" />
+      <workItem from="1601348836586" duration="552000" />
+      <workItem from="1601433261878" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="redisTest_test - 2020.08.18 at 10h 21m 32s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 10h 37m 18s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 10h 42m 33s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 10h 54m 55s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 10h 55m 54s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 11h 14m 28s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 11h 23m 11s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisTest_test - 2020.08.18 at 11h 24m 32s.xml">
+      <configuration name="redisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="lambda_test - 2020.08.19 at 10h 45m 13s.xml">
+      <configuration name="lambda.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="lambda_test - 2020.08.19 at 10h 46m 10s.xml">
+      <configuration name="lambda.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202128000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23294243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5097614" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" visible="true" weight="0.5292842" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.60195225" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" weight="0.75947994" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286334" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.23560767" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5097614" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" visible="true" weight="0.53796095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.60195225" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" weight="0.75947994" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286334" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.23560767" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tokenJsonStr" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/PlusTest.java" />
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/PlusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waterMachine/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waterMachine/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/test/java/com/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/Bean/Material.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/mapper/DemoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/service/Impl/DemoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/service/DemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tianmao/src/main/java/com/test/TianMaoTest.java" />
+    <entry file="file://$PROJECT_DIR$/Tianmao/src/main/java/com/test/domin/Member.java" />
+    <entry file="file://$PROJECT_DIR$/Tianmao/src/main/java/com/test/TianMaoTest/OAuthController.java" />
+    <entry file="file://$PROJECT_DIR$/Tianmao/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/Tianmao/src/main/java/com/test/DataStoreConfig.java" />
+    <entry file="file://$PROJECT_DIR$/MyBatisPlusTest/src/main/java/com/test/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/controller.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/resources/templates/login.ftl" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/src/main/java/OAuthClientApplication.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/OAuthClientApplication.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/config/OAuthClientSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/OAuthServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/controller/LoginController.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/SecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SsoResourse/src/main/java/com/test/config/OAuthClientWebConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/OAuthServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AuthoritiesEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AuthJWTTokenStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/AbstractSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/oauth2_config/ResJWTTokenStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/OAuth2AuthorizationServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/ResServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/AbstractSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/RequestController.java" />
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/AuthServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth20SSO/src/main/java/com/test/config/CustomTokenEnhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauthserver/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauthserver/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/TMapplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/controller/RequestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sl4j/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao/src/main/java/com/test/bean/WeatherHandleImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sl4j/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WechatOnload/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>uploadFile</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

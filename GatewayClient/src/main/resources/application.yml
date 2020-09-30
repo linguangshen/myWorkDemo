@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: easy_route # 我们自定义的路由 ID，保持唯一
+        uri: https://github.com # 目标服务地址
+        predicates: # 路由条件，Predicate 接受一个输入参数，返回一个布尔值结果。该接口包含多种默认方法来将
+        - Path=/smltq/spring-boot-demo
+#上面这段配置的意思是，配置了一个 id 为 easy_route 的路由规则，
+# 当访问地址 http://localhost:8080/smltq/spring-boot-demo时会自动转发到地址：https://github.com/smltq/spring-boot-demo。

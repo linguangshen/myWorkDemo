@@ -1,0 +1,6 @@
+server.port=9090
+#���÷�����
+spring.application.name=hello-com.sige.service
+#���÷���ע�����ĵ�URL��������Ҫ��÷���ע������ע���Լ�
+eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka
+

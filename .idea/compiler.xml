@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ClienAPI" />
+        <module name="EurekaClien" />
+        <module name="EurekaClien2" />
+        <module name="EurekaService" />
+        <module name="GatewayClient" />
+        <module name="MyBatisPlusTest" />
+        <module name="oauth20SSO" />
+        <module name="oauthserver" />
+        <module name="SendApi" />
+        <module name="sl4j" />
+        <module name="tianmao" />
+        <module name="twoDatasourse" />
+        <module name="uploadFile" />
+        <module name="waterMachine" />
+        <module name="WechatOnload" />
+        <module name="WineCulture" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="oauth20SsoResourse" target="1.6" />
+      <module name="Tianmao" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

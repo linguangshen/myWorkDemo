@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClienAPI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaClien" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaClien2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBatisPlusTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SendApi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WechatOnload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WineCulture" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth20SSO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauthserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tianmao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoDatasourse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uploadFile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/waterMachine" charset="UTF-8" />
+  </component>
+</project>

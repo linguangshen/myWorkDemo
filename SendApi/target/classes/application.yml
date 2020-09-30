@@ -1,0 +1,6 @@
+server:
+  port: 18088
+
+myUrl:
+    buyOrderUrl: "http://localhost:18088/sendUser/sendToUser"
+    buyOrderUrl2: http://localhost:18088/sendMerchant/sendToMerchant
